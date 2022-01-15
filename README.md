@@ -1,0 +1,1 @@
+# Golang annotations about things that I consider important
